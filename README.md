@@ -7,7 +7,7 @@
 
 但自从 [MDCx](https://github.com/sqzw-x/mdcx) 更新版本之后，docker版本一直也没更新。而且我之前也是在飞牛OS上部署的，会导致之前的docker容器无法正常使用。
 
-而 MDCx 也一直没编译macOS的x86/64版本和Linux的版本，所以就自己在Ubuntu 24.04下clone了代码，构建了一版适用于Ubuntu系统的二进制版本。
+而 MDCx 也一直没编译macOS的x86/64版本和Linux的版本，所以就自己在Ubuntu 24.04下clone了代码，构建了一版适用于Ubuntu系统的二进制版本。如果需要这个二进制文件，可以直接下载 `app/MDCx` 这个文件。
 
 再参考了 [bandi13/gui-docker](https://github.com/bandi13/gui-docker) 这个项目，将 MDCx 放了进去
 

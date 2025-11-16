@@ -11,6 +11,8 @@
 
 再参考了 [bandi13/gui-docker](https://github.com/bandi13/gui-docker) 这个项目，将 MDCx 放了进去
 
+但说实话，好像v2版本并没有之前的版本好用╮(╯▽╰)╭
+
 ---
 
 ## 运行
